@@ -1,0 +1,347 @@
+/*
+* @Author: Administrator
+* @Date:   2017-04-01 11:58:17
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-04-01 17:56:58
+*/
+*{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	-webkit-appearance: none;
+	-webkit-text-size-adjust:100%;
+	-webkit-user-select:none;
+	-webkit-overflow-scrolling: touch;
+	/* -webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0); */
+	max-height:9999999px;
+	-webkit-text-size-adjust:none;
+	-webkit-overflow-scrolling:touch; overflow-scrolling: touch;
+}
+a{
+	text-decoration: none;
+}
+.banner img{
+	width: 100%;
+	background-size: contain;
+}
+
+.tu{
+	width: 100%;
+	height: auto;
+}
+.tu .tu1{
+	width: 20%;
+	height: auto;
+	float: left;
+
+}
+.tu .tu1 img{
+	width: 60%;
+	padding: 10px 15px;
+}
+.tu .tu1 .tu2{
+	text-align: center;
+	font-size: 12px;
+}
+
+.box{
+	width: 100%;
+	height: 1.17rem;
+}
+.box>div:first-child{
+	width: 1.5rem;
+	height: 100%;
+	float: left;
+	border-right: 1px solid #E7E7E7;
+}
+.box>div:first-child img{
+	width: 80%;
+	padding: 8px;
+}
+.box>div:nth-child(2){
+	width: 1rem;
+	height: 100%;
+	float: left;
+}
+.box>div:nth-child(2) img{
+	width: 50%;
+	display: block;
+	padding: 15px 0 0 15px;
+}
+.box>div:nth-child(3){
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+.box div .a{
+	width: 5rem;
+	height: 50%;
+	font-size: 12px;
+	margin-top: 10px;
+
+}
+.box div .b{
+	width: 5rem;
+	height: 50%;
+	font-size: 12px;
+	color: #FF2F2F;
+}
+.as div img{
+	width: 50%;
+	float: left;
+}
+
+
+
+
+
+.d{
+	width: 100%
+}
+.d div{
+	width: 25%;
+	float: left;
+}
+.d div img{
+	width: 70%;
+	padding-left: 10px;
+	padding-top: 10px;
+} 
+.d .b{
+	width: 100%;
+}
+.d .b .b1{
+	width: 100%;
+	height: 30px;
+	background: #F0F0F0;
+}
+.d .b .b1 .asd2{
+	width: 15%;
+	height: 1px;
+	background: #FF2F2F;
+	float: left;
+	margin-top: 15px;
+	margin-left: 23%;
+}
+.d .b .b1 .asd{
+	width: 10%;
+	float: left;
+}
+.d .b .b1 .asd img{
+	width:40%;
+	display: block;
+}
+.d .b .b1 .asd1{
+	font-size: 12px;
+	line-height: 30px;
+	color: #FF2F2F;
+	float: left;
+}
+.d .b .b1 .asd3{
+	width: 15%;
+	height: 1px;
+	background: #FF2F2F;
+	float: left;
+	margin-top: 15px;
+	margin-left: -10%;
+}
+.d div .ds{
+	width: 100%;
+	font-size: 12px;
+	text-align: center;
+}
+
+
+.e{
+	width: 100%
+}
+.e div{
+	width: 33.33%;
+	float: left;
+}
+.e div img{
+	width: 70%;
+	padding-left: 10px;
+	padding-top: 10px;
+} 
+.e .b{
+	width: 100%;
+}
+.e .b .b1{
+	width: 100%;
+	height: 30px;
+	background: #F0F0F0;
+}
+.e .b .b1 .asd2{
+	width: 15%;
+	height: 1px;
+	background: #4A86E6;
+	float: left;
+	margin-top: 15px;
+	margin-left: 23%;
+}
+.e .b .b1 .asd{
+	width: 10%;
+	float: left;
+}
+.e .b .b1 .asd img{
+	width:40%;
+	display: block;
+}
+.e .b .b1 .asd1{
+	font-size: 12px;
+	line-height: 30px;
+	color: #4A86E6;
+	float: left;
+}
+.e .b .b1 .asd3{
+	width: 15%;
+	height: 1px;
+	background: #4A86E6;
+	float: left;
+	margin-top: 15px;
+	margin-left: -15%;
+}
+.e div .ds{
+	width: 100%;
+	font-size: 12px;
+	text-align: center;
+}
+
+
+.f{
+	width: 100%
+}
+.f div{
+	width: 50%;
+	float: left;
+}
+.f div img{
+	width: 70%;
+	padding-left: 10px;
+	padding-top: 10px;
+} 
+.f .b{
+	width: 100%;
+}
+.f .b .b1{
+	width: 100%;
+	height: 30px;
+	background: #F0F0F0;
+}
+.f .b .b1 .asd2{
+	width: 15%;
+	height: 1px;
+	background: #FFCC99;
+	float: left;
+	margin-top: 15px;
+	margin-left: 23%;
+}
+.f .b .b1 .asd{
+	width: 10%;
+	float: left;
+}
+.f .b .b1 .asd img{
+	width:40%;
+	display: block;
+}
+.f .b .b1 .asd1{
+	font-size: 12px;
+	line-height: 30px;
+	color: #FFCC99;
+	float: left;
+}
+.f .b .b1 .asd3{
+	width: 15%;
+	height: 1px;
+	background: #FFCC99;
+	float: left;
+	margin-top: 15px;
+	margin-left: -33%;
+}
+.f div .ds{
+	width: 100%;
+	font-size: 12px;
+	text-align: center;
+}
+
+
+
+.g{
+	width: 100%
+}
+.g div{
+	width: 33.33%;
+	float: left;
+}
+.g div img{
+	width: 70%;
+	padding-left: 10px;
+	padding-top: 10px;
+} 
+.g .b{
+	width: 100%;
+}
+.g .b .b1{
+	width: 100%;
+	height: 30px;
+	background: #F0F0F0;
+}
+.g .b .b1 .asd2{
+	width: 15%;
+	height: 1px;
+	background: #009F8A;
+	float: left;
+	margin-top: 15px;
+	margin-left: 23%;
+}
+.g .b .b1 .asd{
+	width: 10%;
+	float: left;
+}
+.g .b .b1 .asd img{
+	width:40%;
+	display: block;
+}
+.g .b .b1 .asd1{
+	font-size: 12px;
+	line-height: 30px;
+	color: #009F8A;
+	float: left;
+}
+.g .b .b1 .asd3{
+	width: 15%;
+	height: 1px;
+	background: #009F8A;
+	float: left;
+	margin-top: 15px;
+	margin-left: -16%;
+}
+.g div .ds{
+	width: 100%;
+	font-size: 12px;
+	text-align: center;
+}
+
+
+.n img{
+	display: block;
+	width: 100%;
+	padding: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
